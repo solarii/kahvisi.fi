@@ -1,0 +1,25 @@
+{
+  "name": "kahvisi.fi-2.0",
+  "version": "1.0.0",
+  "description": "The new webpage for Kahvisi.fi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solarii/kahvisi.fi.git"
+  },
+  "keywords": [
+    "kahvisi.fi"
+  ],
+  "author": "Niklas Strengell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solarii/kahvisi.fi/issues"
+  },
+  "homepage": "https://github.com/solarii/kahvisi.fi#readme",
+  "dependencies": {
+    "bulma": "^0.7.1"
+  }
+}
